@@ -1,0 +1,19 @@
+XLConnect sources can be obtained from GitHub:
+
+- XLConnect R Package: https://github.com/miraisolutions/xlconnect
+- XLConnectJars R Package: https://github.com/miraisolutions/xlconnectjars
+- XLConnect Java Sources: https://github.com/miraisolutions/xlconnect-java
+
+
+Sources for other open source software components can be obtained from the corresponding project websites:
+
+- Apache POI: http://poi.apache.org/
+  Related JARs: poi-*.jar, poi-ooxml-*.jar, ooxml-schemas-*.jar
+
+- Apache XMLBeans: http://xmlbeans.apache.org/
+  Related JARs: xmlbeans-*.jar
+
+- StAX: http://stax.codehaus.org/
+  Related JARs: stax-api-*.jar
+
+See also associated copyright information in inst/COPYRIGHTS.

@@ -1,4 +1,0 @@
-xlconnectjars
-=============
-
-XLConnect JAR dependencies

@@ -1,0 +1,8 @@
+^\.Rproj\.user$
+^\.project$
+[.]svn$
+[.]gitignore$
+[.]Rproj$
+^.*\.Rproj$
+^\.travis\.yml$
+Makefile
