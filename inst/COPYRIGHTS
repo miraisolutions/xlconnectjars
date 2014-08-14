@@ -9,7 +9,7 @@ The package XLConnectJars includes other open source software components. The fo
    Project Website: http://poi.apache.org/
    License Information: http://www.apache.org/licenses/LICENSE-2.0
 
-   Related JARs: poi-*.jar, poi-ooxml-*.jar, ooxml-schemas-*.jar
+   Related JARs: ooxml-schemas-*.jar
 
 ** Apache XMLBeans
 
@@ -19,16 +19,4 @@ The package XLConnectJars includes other open source software components. The fo
    License Information: http://www.apache.org/licenses/LICENSE-2.0
 
    Related JARs: xmlbeans-*.jar
-
-
-Transitive dependencies include:
-
-** StAX 
-
-   Copyright 2003-2006 - The Codehaus
-
-   Project Website: http://stax.codehaus.org/
-   License Information: http://www.apache.org/licenses/LICENSE-2.0
-
-   Related JARs: stax-api-*.jar
 

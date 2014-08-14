@@ -5,15 +5,14 @@ XLConnect sources can be obtained from GitHub:
 - XLConnect Java Sources: https://github.com/miraisolutions/xlconnect-java
 
 
-Sources for other open source software components can be obtained from the corresponding project websites:
+Sources for other open source software components can be obtained from the corresponding project websites or source code repositories:
 
 - Apache POI: http://poi.apache.org/
-  Related JARs: poi-*.jar, poi-ooxml-*.jar, ooxml-schemas-*.jar
+  Source Code:
+  ooxml-schemas-1.1.jar: http://repo1.maven.org/maven2/org/apache/poi/ooxml-schemas/1.1/ooxml-schemas-1.1-sources.jar
 
 - Apache XMLBeans: http://xmlbeans.apache.org/
-  Related JARs: xmlbeans-*.jar
-
-- StAX: http://stax.codehaus.org/
-  Related JARs: stax-api-*.jar
+  Source Code:
+  xmlbeans-2.6.0.jar: http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-source.jar
 
 See also associated copyright information in inst/COPYRIGHTS.
