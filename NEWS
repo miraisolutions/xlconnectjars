@@ -1,6 +1,9 @@
 XLConnectJars News
 ------------------
 
+0.2-12 2015-??-??
+  * Upgrade to ooxml-schemas-1.3.jar
+  
 0.2-9 2014-08-13
   * Fixing authors declaration in DESCRIPTION file
     to match CRAN policy
