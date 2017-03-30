@@ -1,14 +1,16 @@
 Package: XLConnectJars
 Type: Package
 Title: JAR Dependencies for the XLConnect Package
-Version: 0.2-12
-Date: 2016-06-23
+Version: 0.2-13
+Date: 2017-03-30
 Authors@R: c(person("Mirai Solutions GmbH", role = "aut",
                     email = "xlconnect@mirai-solutions.com"),
              person("Martin", "Studer", role = "cre",
                     email = "martin.studer@mirai-solutions.com"),
              person("The Apache Software Foundation", role = c("ctb", "cph"),
-                    comment = "Apache POI, Apache XMLBeans"))
+                    comment = "Apache POI, Apache XMLBeans, Apache Commons Codec, Apache Commons Collections"),
+             person("Stephen", "Colebourne", role = c("ctb", "cph"),
+                    comment = "Joda-Time Java library"))
 URL: http://www.mirai-solutions.com , http://miraisolutions.wordpress.com
 BugReports: https://github.com/miraisolutions/xlconnectjars/issues
 SystemRequirements: java (>= 1.6)
@@ -17,4 +19,3 @@ Description: Provides external JAR dependencies for the XLConnect package.
 License: GPL-3
 Copyright: See file COPYRIGHTS
 LazyLoad: yes
-
