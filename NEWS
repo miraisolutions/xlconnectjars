@@ -1,7 +1,7 @@
 XLConnectJars News
 ------------------
 
-0.2-13 2017-03-??
+0.2-13 2017-05-10
   * Including Apache Commons Codec: commons-codec-1.10.jar
   * Including Apache Commons Collections: commons-collections4-4.1.jar
   * Including Joda-Time: joda-time-2.3.jar
