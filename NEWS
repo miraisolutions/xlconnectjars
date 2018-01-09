@@ -1,6 +1,10 @@
 XLConnectJars News
 ------------------
 
+0.2-14 ????-??-??
+  * Fixed Java version specification in system requirements
+  * Checking Java version at runtime according to CRAN requirements
+  
 0.2-13 2017-05-10
   * Including Apache Commons Codec: commons-codec-1.10.jar
   * Including Apache Commons Collections: commons-collections4-4.1.jar
