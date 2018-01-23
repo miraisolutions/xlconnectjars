@@ -1,7 +1,7 @@
 XLConnectJars News
 ------------------
 
-0.2-14 ????-??-??
+0.2-14 2018-01-23
   * Fixed Java version specification in system requirements
   * Checking Java version at runtime according to CRAN requirements
   

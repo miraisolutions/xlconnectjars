@@ -2,7 +2,7 @@ Package: XLConnectJars
 Type: Package
 Title: JAR Dependencies for the XLConnect Package
 Version: 0.2-14
-Date: 2017-05-10
+Date: 2018-01-23
 Authors@R: c(person("Mirai Solutions GmbH", role = "aut",
                     email = "xlconnect@mirai-solutions.com"),
              person("Martin", "Studer", role = "cre",
