@@ -1,7 +1,7 @@
 #############################################################################
 #
 # XLConnectJars
-# Copyright (C) 2010-2017 Mirai Solutions GmbH
+# Copyright (C) 2010-2018 Mirai Solutions GmbH
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -32,7 +32,7 @@
   
   # Java version check
   jv <- .jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
-  if(substr(jv, 1L, 1L) == "1") {
+  if(substr(jv, 1L, 2L) == "1.") {
     jvn <- as.numeric(paste0(strsplit(jv, "[.]")[[1L]][1:2], collapse = "."))
     if(jvn < 1.6) stop("Java 6 or higher is needed for this package")
   }

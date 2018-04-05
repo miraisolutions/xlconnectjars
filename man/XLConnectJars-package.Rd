@@ -12,8 +12,8 @@ Provides external JAR dependencies for the XLConnect package
 \tabular{ll}{
 Package: \tab XLConnectJars\cr
 Type: \tab Package\cr
-Version: \tab 0.2-14\cr
-Date: \tab 2018-01-23\cr
+Version: \tab 0.2-15\cr
+Date: \tab 2018-04-05\cr
 URL: \tab \url{http://www.mirai-solutions.com}\cr
 \tab \url{https://github.com/miraisolutions/xlconnect}\cr
 BugReports: \tab \url{https://github.com/miraisolutions/xlconnect}\cr

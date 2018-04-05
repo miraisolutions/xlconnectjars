@@ -1,6 +1,9 @@
 XLConnectJars News
 ------------------
 
+0.2-15 2018-04-05
+  * Update Java version check to support Java 10
+
 0.2-14 2018-01-23
   * Fixed Java version specification in system requirements
   * Checking Java version at runtime according to CRAN requirements
