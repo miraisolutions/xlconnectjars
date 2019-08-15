@@ -62,4 +62,4 @@ Transitive dependencies include:
    Project Website: http://commons.apache.org/proper/commons-compress/
    License Information: http://www.apache.org/licenses/LICENSE-2.0
    
-   Related JARs: commons-compress-*.jar
+   Related JARs: commons-math3-*.jar
