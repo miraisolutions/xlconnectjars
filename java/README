@@ -17,15 +17,15 @@ Sources for other open source software components can be obtained from the corre
 
 - Apache Commons Codec: http://commons.apache.org/proper/commons-codec/
   Source Code:
-  commons-codec-1.12.jar: http://repo1.maven.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12-sources.jar
+  commons-codec-1.13.jar: http://repo1.maven.org/maven2/commons-codec/commons-codec/1.13/commons-codec-1.13-sources.jar
   
 - Apache Commons Collections: http://commons.apache.org/proper/commons-collections/
   Source Code:
-  commons-collections4-4.3.jar: https://repo1.maven.org/maven2/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3-sources.jar
+  commons-collections4-4.4.jar: https://repo1.maven.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.3-sources.jar
 
 - Apache Commons Compress: http://commons.apache.org/proper/commons-compress/
   Source Code:
-  commons-compress-1.18.jar: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18-sources.jar
+  commons-compress-1.19.jar: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.19/commons-compress-1.19-sources.jar
 
 
 - Apache Commons Math: http://commons.apache.org/proper/commons-math/
