@@ -1,6 +1,9 @@
 XLConnectJars News
 ------------------
 
+1.0.0
+  * Update Apache POI dependencies to version 4.1.1
+
 0.2-15 2018-04-05
   * Update Java version check to support Java 10
 

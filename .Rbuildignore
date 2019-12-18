@@ -6,3 +6,4 @@
 ^.*\.Rproj$
 ^\.travis\.yml$
 Makefile
+cran-comments.md
